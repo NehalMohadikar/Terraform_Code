@@ -31,6 +31,6 @@ resource "aws_security_group" "demo_sg" {
   }
 
   tags = {
-    Name = "allow_SSH"
+    Name = "Allow_SSH"
   }
 }
